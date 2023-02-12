@@ -120,6 +120,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ScribbleMaps](http://www.scribblemaps.com/) - Create custom google maps.
 * [Sketchpad](https://sketch.io/sketchpad/) - Create digital artwork and export to popular image formats JPEG, PNG, SVG, and PDF.
 * [Piskel](https://www.piskelapp.com/) - Free online editor for animated sprites & pixel art
+* [Diagrams](https://app.diagrams.net) - Free online diagram maker and share, with feature, Team Drawing.
 
 
 ### File Converters
